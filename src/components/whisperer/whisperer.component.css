@@ -1,0 +1,25 @@
+.whisperer_component input {
+    padding: 0.75rem;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin: 1rem 0;
+}
+
+.whisperer_component input:focus-visible {
+    border-color: transparent;
+    outline: 2px solid rgba(30, 144, 255, 0.5);
+}
+
+.whisperer_component button {
+    padding: 0.75rem;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+    cursor: pointer;
+}
+
+.whisperer_component button.primary {
+    background-color: dodgerblue;
+    border-color: dodgerblue;
+    color: white;
+}

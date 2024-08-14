@@ -1,0 +1,9 @@
+.forecast_component h3 {
+    font-weight: normal;
+    margin-bottom: 2rem;
+}
+
+.forecast_component h3 > strong {
+    font-weight: bolder;
+    color: dodgerblue;
+}

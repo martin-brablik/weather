@@ -1,0 +1,50 @@
+[
+    {
+      "name": "United States",
+      "locale": "en-US"
+    },
+    {
+      "name": "Bahamas",
+      "locale": "en-BS"
+    },
+    {
+      "name": "Belize",
+      "locale": "en-BZ"
+    },
+    {
+      "name": "Cayman Islands",
+      "locale": "en-KY"
+    },
+    {
+      "name": "Palau",
+      "locale": "en-PW"
+    },
+    {
+      "name": "Liberia",
+      "locale": "en-LR"
+    },
+    {
+      "name": "Puerto Rico",
+      "locale": "en-PR"
+    },
+    {
+      "name": "Guam",
+      "locale": "en-GU"
+    },
+    {
+      "name": "United States Virgin Islands",
+      "locale": "en-VI"
+    },
+    {
+      "name": "Marshall Islands",
+      "locale": "en-MH"
+    },
+    {
+      "name": "Micronesia",
+      "locale": "en-FM"
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "locale": "en-TC"
+    }
+  ]

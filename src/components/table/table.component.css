@@ -1,0 +1,20 @@
+.table_component table {
+    width: 100%;
+    text-align: left;
+    border-spacing: 0;
+    margin-top: 1rem;
+}
+
+.table_component table th,
+.table_component table td {
+    height: 2.5rem;
+    padding: 0;
+}
+
+.table_component table td {
+    border-top: 1px solid lightgray;
+}
+
+.table_component table tr:hover {
+    background-color: ghostwhite;
+}
